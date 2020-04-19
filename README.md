@@ -17,3 +17,13 @@ Libraries Used:-
 2. Haar Feature Cascade Classifier (to  to detect human faces in images)
 3. VGG16 model (pre-trained model to detect dogs in images)
 4. Resnet
+
+
+Model after training looks gives predictions on dog's images like:-
+![](output/out_8.PNG)
+
+Model can also be tested on cats images to see if it can give the desired results.
+![](output/out_9.PNG)
+
+Model can also be tested on human images to see if our model can give the results of human images like dog breed.
+![](output/out_10.PNG)
