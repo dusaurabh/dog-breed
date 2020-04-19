@@ -28,11 +28,11 @@ Model can also be tested on cats images to see if it can give the desired result
 Model can also be tested on human images to see if our model can give the results of human images like dog breed.
 ![](output/out_10.PNG)
 
-Model gives accuracy of 11% on training on Custom CNN model:-
-![](output/out_11.PNG)
+Model gives accuracy of 16% on training on Custom CNN model:-
+![](output/out_1.PNG)
 
-Model gives accuracy of 75% by using Transfer Learning of ResNet pre-trained.
-![](output/out_12.PNG)
+Model gives accuracy of 85% by using Transfer Learning of ResNet pre-trained.
+![](output/out_2.PNG)
 
 Model gives prediction after training on resnet pretrained model
 ![](output/out_13.PNG)
