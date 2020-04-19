@@ -10,5 +10,10 @@ Given an image of a dog, the algorithm will identify an estimate of the canineâ€
 
 Software used:-
 1. Anaconda
-2. OpenCV
-3. GPU(for faster processing)
+2. GPU(for faster processing)
+
+Libraries Used:-
+1. OpenCV (Open Computer Vision)
+2. Haar Feature Cascade Classifier (to  to detect human faces in images)
+3. VGG16 model (pre-trained model to detect dogs in images)
+4. Resnet
